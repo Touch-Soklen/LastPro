@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav-menu{
+    position: sticky;
+    top: 0%;
+    z-index: 1;
+}
+.icon a{
+    padding: 0px 20px;
+    font-size: 50px;
+    color: #fafafa;
+}
